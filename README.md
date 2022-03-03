@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# tour playlist
+
+Lists upcoming races in the Forza Horizon 5 Tour with a countdown timer.
+
+## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 In the project directory, you can run:
 
