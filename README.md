@@ -2,6 +2,8 @@
 
 Lists upcoming races in the Forza Horizon 5 Tour with a countdown timer.
 
+[Click here to see a demo](https://fh5-tour-playlist.netlify.app/)
+
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
