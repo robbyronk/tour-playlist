@@ -1,6 +1,7 @@
 import './App.css';
 import {useEffect, useState} from "react";
-import {sortBy} from 'lodash'
+import {filter, includes, padStart, sortBy, xor} from 'lodash'
+import clsx from 'clsx'
 
 const cc = 'Cross-Country'
 const dirt = 'Dirt'
@@ -72,10 +73,80 @@ const tours = [
 
 const tourIndexToSecondsPastHour = index => index * 120;
 
-const formatSecondsToMMSS = seconds => `${Math.floor(seconds / 60)}:${seconds % 60}`
+const formatSecondsToMMSS = seconds =>
+  `${padStart(Math.floor(seconds / 60), 2, '0')}:${padStart(seconds % 60, 2, '0')}`
+
+function ClassType({classType, className, onClick}) {
+  return <button
+    onClick={onClick}
+    className={clsx('class-type', {
+      's1': s === classType,
+      'a': a === classType,
+      'b': b === classType,
+      'c': c === classType,
+      'd': d === classType,
+    }, className)}
+  >
+    {classType}
+  </button>
+}
+
+function RaceType({raceType, className, onClick}) {
+  return <button
+    onClick={onClick}
+    className={clsx(className, 'class-type', {
+      'cc': cc === raceType,
+      'dirt': dirt === raceType,
+      'road': road === raceType,
+    })}
+  >
+    {raceType}
+  </button>
+}
+
+function Tour({tour, setRaces, setClasses}) {
+  return <div className={'tour'}>
+    <ClassType classType={tour.classType} onClick={() => setClasses([tour.classType])}/>
+    <RaceType raceType={tour.raceType} onClick={() => setRaces([tour.raceType])}/>
+    <span className={'mr-2'}>{tour.carType}</span>
+    <span>{formatSecondsToMMSS(tour.secondsUntil)}</span>
+  </div>
+}
+
+const allClasses = [s, a, b, c, d];
+
+function ClassPicker({classes, set}) {
+  return <div className={'picker'}>
+    {
+      allClasses.map(cls => <ClassType
+        key={cls}
+        classType={cls}
+        className={clsx({'disabled': !includes(classes, cls)})}
+        onClick={() => set(xor(classes, [cls]))}
+      />)
+    }
+  </div>
+}
+
+const allRaces = [road, dirt, cc];
+
+function RacePicker({races, set}) {
+  return <div className={'picker'}>
+    {
+      allRaces.map(race => <RaceType
+        key={race}
+        raceType={race}
+        className={clsx({'disabled': !includes(races, race)})}
+        onClick={() => set(xor(races, [race]))}
+      />)
+    }
+  </div>
+}
 
 function App() {
   const [now, setTime] = useState(new Date());
+  const [shownRaces, setShownRaces] = useState(allRaces);
+  const [shownClasses, setShownClasses] = useState(allClasses);
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -96,17 +167,24 @@ function App() {
         ...tour,
         tourTime,
         secondsUntil: secondsUntil < 0 ? secondsUntil + 3600 : secondsUntil,
+        key: index
       });
     }),
     'secondsUntil'
-  )
+  );
+  const filteredTours = filter(
+    sortedTours,
+    tour => includes(shownRaces, tour.raceType) && includes(shownClasses, tour.classType)
+  );
 
   return (
     <div className="App">
       <p>{now.toLocaleTimeString()}</p>
-      {sortedTours.map(tour => <div>
-        {tour.classType} {tour.raceType} {tour.carType} {formatSecondsToMMSS(tour.secondsUntil)}
-      </div> )}
+      <ClassPicker classes={shownClasses} set={setShownClasses}/>
+      <RacePicker races={shownRaces} set={setShownRaces}/>
+      <div className="tours">
+        {filteredTours.map(tour => <Tour key={tour.key} tour={tour} setRaces={setShownRaces} setClasses={setShownClasses}/>)}
+      </div>
     </div>
   );
 }

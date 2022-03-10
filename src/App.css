@@ -36,3 +36,67 @@
     transform: rotate(360deg);
   }
 }
+
+.mr-2 {
+  margin-right: 0.5rem;
+}
+
+button {
+  border: 0;
+}
+
+.tours {
+  margin-top: 2rem;
+}
+
+.tour {
+  margin-top: 1rem;
+}
+
+.picker {
+  margin-top: 1rem;
+}
+
+.class-type {
+  padding: 0.25rem 0.5rem;
+  border-radius: 10rem;
+  color: white;
+  font-weight: bold;
+  margin-right: 0.25rem;
+}
+
+.disabled {
+  background-color: grey !important;
+}
+
+.s1 {
+  background-color: #a75dc3;
+}
+
+.a {
+  background-color: #e83354;
+}
+
+.b {
+  background-color: #ee621c;
+}
+
+.c {
+  background-color: #fbc538;
+}
+
+.d {
+  background-color: #71c3e6;
+}
+
+.road {
+  background-color: #0f90c9;
+}
+
+.dirt {
+  background-color: #ee4708;
+}
+
+.cc {
+  background-color: #25a847;
+}
