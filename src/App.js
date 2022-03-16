@@ -7,11 +7,18 @@ const cc = 'Cross-Country'
 const dirt = 'Dirt'
 const road = 'Road'
 
-const s = 'S1-900'
-const a = 'A-800'
-const b = 'B-700'
-const c = 'C-600'
-const d = 'D-500'
+const s = 'S1'
+const a = 'A'
+const b = 'B'
+const c = 'C'
+const d = 'D'
+const pi = {
+  [s]: 900,
+  [a]: 800,
+  [b]: 700,
+  [c]: 600,
+  [d]: 500,
+};
 
 const classicRally = 'Classic Rally';
 const pickups4X4s = 'Pickups & 4X4s';
@@ -87,14 +94,14 @@ function ClassType({classType, className, onClick}) {
       'd': d === classType,
     }, className)}
   >
-    {classType}
+    {classType} <span className="pi">{pi[classType]}</span>
   </button>
 }
 
 function RaceType({raceType, className, onClick}) {
   return <button
     onClick={onClick}
-    className={clsx(className, 'class-type', {
+    className={clsx(className, 'race-type', {
       'cc': cc === raceType,
       'dirt': dirt === raceType,
       'road': road === raceType,
@@ -105,11 +112,13 @@ function RaceType({raceType, className, onClick}) {
 }
 
 function Tour({tour, setRaces, setClasses}) {
-  return <div className={'tour'}>
-    <ClassType classType={tour.classType} onClick={() => setClasses([tour.classType])}/>
-    <RaceType raceType={tour.raceType} onClick={() => setRaces([tour.raceType])}/>
-    <span className={'mr-2'}>{tour.carType}</span>
-    <span>{formatSecondsToMMSS(tour.secondsUntil)}</span>
+  return <div className={clsx( 'flex-center',{'queue-now': tour.secondsUntil < 120, 'next-up': tour.secondsUntil < 240 && !(tour.secondsUntil < 120)})}>
+    <div className={'tour flex-center'}>
+      <ClassType classType={tour.classType} onClick={() => setClasses([tour.classType])}/>
+      <RaceType raceType={tour.raceType} onClick={() => setRaces([tour.raceType])}/>
+      <span className={'mr-2'}>{tour.carType}</span>
+      <span className={clsx({'text-red': tour.secondsUntil < 60})}>{formatSecondsToMMSS(tour.secondsUntil)}</span>
+    </div>
   </div>
 }
 

@@ -49,8 +49,21 @@ button {
   margin-top: 2rem;
 }
 
-.tour {
+.mt-3 {
   margin-top: 1rem;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tour {
+  border-radius: 5px;
+  padding: 0.5rem 2rem;
+  margin: 0.5rem;
+  background-color: white;
 }
 
 .picker {
@@ -58,6 +71,13 @@ button {
 }
 
 .class-type {
+  padding: 0.25rem;
+  color: white;
+  font-weight: bold;
+  margin-right: 0.25rem;
+}
+
+.race-type {
   padding: 0.25rem 0.5rem;
   border-radius: 10rem;
   color: white;
@@ -99,4 +119,24 @@ button {
 
 .cc {
   background-color: #25a847;
+}
+
+.text-red {
+  color: red;
+}
+
+.queue-now {
+  font-size: 200%;
+  background-color: #d83c74;
+}
+
+.next-up {
+  font-size: 150%;
+  background-color: #e9d323;
+}
+
+.pi {
+  padding: 0 0.25rem;
+  background-color: white;
+  color: black;
 }
