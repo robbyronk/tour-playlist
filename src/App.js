@@ -1,6 +1,6 @@
 import './App.css';
 import {useEffect, useState} from "react";
-import {filter, includes, map, padStart, sortBy, split, uniq} from 'lodash'
+import {filter, includes, map, sortBy, split, uniq} from 'lodash'
 import papa from 'papaparse';
 import {Tour} from "./Tour";
 import {ClassPicker} from "./ClassPicker";
