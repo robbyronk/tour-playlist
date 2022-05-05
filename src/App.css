@@ -1,40 +1,9 @@
+body {
+  background-color: #f3f3f3;
+}
+
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
 
 .mr-2 {
@@ -47,6 +16,14 @@ button {
 
 .tours {
   margin-top: 2rem;
+}
+
+.ml-1 {
+  margin-left: 0.25rem;
+}
+
+.mt-0 {
+  margin-top: 0.12rem;
 }
 
 .mt-3 {
@@ -63,11 +40,29 @@ button {
   border-radius: 5px;
   padding: 0.5rem 2rem;
   margin: 0.5rem;
-  background-color: white;
+  background-color: #fafafa;
+  flex-direction: column;
 }
 
 .picker {
   margin-top: 1rem;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-row-gap: 0.25rem;
+  justify-content: center;
+}
+
+@media only screen and (min-width: 400px) {
+  .picker {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+  }
+}
+
+.class-race {
+  display: grid;
+  grid-gap: 0.25rem;
 }
 
 .class-type {
@@ -75,14 +70,19 @@ button {
   color: white;
   font-weight: bold;
   margin-right: 0.25rem;
+  display: flex;
+  justify-content: space-between;
 }
 
 .race-type {
   padding: 0.25rem 0.5rem;
-  border-radius: 10rem;
   color: white;
   font-weight: bold;
   margin-right: 0.25rem;
+}
+
+.gray-300 {
+  color: #6a6a6a;
 }
 
 .disabled {
@@ -90,7 +90,7 @@ button {
 }
 
 .pi-998 {
-  background-color: #5d7ac3;
+  background-color: #1e5dd4;
 }
 
 .pi-900 {
