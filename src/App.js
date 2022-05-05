@@ -1,135 +1,68 @@
 import './App.css';
 import {useEffect, useState} from "react";
-import {filter, includes, padStart, sortBy, xor} from 'lodash'
+import {filter, includes, map, padStart, sortBy, split, uniq, xor} from 'lodash'
 import clsx from 'clsx'
+import papa from 'papaparse';
 
-const cc = 'Cross-Country'
-const dirt = 'Dirt'
-const road = 'Road'
-
-const s = 'S1'
-const a = 'A'
-const b = 'B'
-const c = 'C'
-const d = 'D'
-const pi = {
-  [s]: 900,
-  [a]: 800,
-  [b]: 700,
-  [c]: 600,
-  [d]: 500,
+const clsToPi = {
+  x: 999,
+  s2: 998,
+  s1: 900,
+  a: 800,
+  b: 700,
+  c: 600,
+  d: 500,
 };
 
-const classicRally = 'Classic Rally';
-const pickups4X4s = 'Pickups & 4X4s';
-const classicRacers = 'Classic Racers';
-const hoonigan = 'Hoonigan';
-const heavyHitters = 'Heavy Hitters';
-const modernMuscle = 'Modern Muscle';
-const ruleBritannia = 'Rule Britannia';
-const anythingGoes = 'Anything Goes';
-const upgradeHeroes = 'Upgrade Heroes';
-const superSaloons = 'Super Saloons';
-const evoVsImpreza = 'Evo vs Impreza';
-const suvs = 'SUVs';
-const unlimitedOffroad = 'Unlimited Offroad';
-const bmw = "BMW";
-const retroRally = 'Retro Rally';
-const chevyVsDodge = 'Chevy vs Dodge';
-const buggies = 'Buggies';
-const reasonablyPriced = 'Reasonably Priced';
-const landRover = 'Land Rover';
+const formatSecondsToHHMMSS = seconds => {
+  const formatted = `${padStart(Math.floor(seconds / 60) % 60, 2, '0')}:${padStart(seconds % 60, 2, '0')}`;
+  const hours = seconds > 3600 ? `${padStart(Math.floor(seconds / 3600), 2, '0')}:` : '';
+  return hours + formatted;
+}
 
-let pickupsCc = {"carType": pickups4X4s, "classType": c, "raceType": cc};
-let classicRacersS = {"carType": classicRacers, "classType": s, "raceType": road};
-const anythingDirtS = {"carType": anythingGoes, "classType": s, "raceType": dirt};
-const anythingRoadA = {"carType": anythingGoes, "classType": a, "raceType": road};
-const anythingCcA = {"carType": anythingGoes, "classType": s, "raceType": cc};
-const tours = [
-  anythingRoadA,
-  {"carType": reasonablyPriced, "classType": b, "raceType": road},
-  anythingDirtS,
-  {"carType": anythingGoes, "classType": b, "raceType": cc},
-  {"carType": landRover, "classType": a, "raceType": dirt},
-  {"carType": unlimitedOffroad, "classType": a, "raceType": cc},
-  anythingRoadA,
-  {"carType": classicRally, "classType": b, "raceType": dirt},
-  pickupsCc,
-  classicRacersS,
-  {"carType": hoonigan, "classType": s, "raceType": dirt},
-  {"carType": heavyHitters, "classType": a, "raceType": cc},
-  {"carType": modernMuscle, "classType": s, "raceType": road},
-  {"carType": ruleBritannia, "classType": a, "raceType": dirt},
-  anythingCcA,
-  {"carType": upgradeHeroes, "classType": s, "raceType": road},
-  anythingDirtS,
-  pickupsCc,
-  {"carType": superSaloons, "classType": a, "raceType": road},
-  {"carType": evoVsImpreza, "classType": b, "raceType": dirt},
-  {"carType": suvs, "classType": a, "raceType": cc},
-  classicRacersS,
-  {"carType": unlimitedOffroad, "classType": a, "raceType": dirt},
-  anythingCcA,
-  {"carType": bmw, "classType": a, "raceType": road},
-  {"carType": retroRally, "classType": c, "raceType": dirt},
-  pickupsCc,
-  {"carType": anythingGoes, "classType": s, "raceType": road},
-  {"carType": chevyVsDodge, "classType": s, "raceType": dirt},
-  {"carType": buggies, "classType": d, "raceType": cc},
-];
-
-const tourIndexToSecondsPastHour = index => index * 120;
-
-const formatSecondsToMMSS = seconds =>
-  `${padStart(Math.floor(seconds / 60), 2, '0')}:${padStart(seconds % 60, 2, '0')}`
-
-function ClassType({classType, className, onClick}) {
+function ClassType({cls, className, onClick}) {
+  const pi = clsToPi[cls.toLowerCase()];
   return <button
     onClick={onClick}
-    className={clsx('class-type', {
-      's1': s === classType,
-      'a': a === classType,
-      'b': b === classType,
-      'c': c === classType,
-      'd': d === classType,
-    }, className)}
+    className={clsx('class-type', `pi-${pi}`, className)}
   >
-    {classType} <span className="pi">{pi[classType]}</span>
+    {cls} <span className="pi">{pi}</span>
   </button>
 }
 
 function RaceType({raceType, className, onClick}) {
   return <button
     onClick={onClick}
-    className={clsx(className, 'race-type', {
-      'cc': cc === raceType,
-      'dirt': dirt === raceType,
-      'road': road === raceType,
-    })}
+    className={clsx(className, 'race-type', raceType.toLowerCase())}
   >
     {raceType}
   </button>
 }
 
 function Tour({tour, setRaces, setClasses}) {
-  return <div className={clsx( 'flex-center',{'queue-now': tour.secondsUntil < 120, 'next-up': tour.secondsUntil < 240 && !(tour.secondsUntil < 120)})}>
-    <div className={'tour flex-center'}>
-      <ClassType classType={tour.classType} onClick={() => setClasses([tour.classType])}/>
-      <RaceType raceType={tour.raceType} onClick={() => setRaces([tour.raceType])}/>
-      <span className={'mr-2'}>{tour.carType}</span>
-      <span className={clsx({'text-red': tour.secondsUntil < 60})}>{formatSecondsToMMSS(tour.secondsUntil)}</span>
+  return <div className={clsx(
+    'flex-center',
+    {
+      'queue-now': tour.secondsUntil < 120,
+      'next-up': tour.secondsUntil < 240 && !(tour.secondsUntil < 120)
+    }
+  )}
+  >
+    <div className='tour flex-center'>
+      <ClassType cls={tour.cls} pi={tour.pi} onClick={() => setClasses([tour.cls])}/>
+      <RaceType raceType={tour.type} onClick={() => setRaces([tour.type])}/>
+      <span className={'mr-2'}>{tour.theme}</span>
+      <span className={clsx({'text-red': tour.secondsUntil < 60})}>{formatSecondsToHHMMSS(tour.secondsUntil)}</span>
     </div>
   </div>
 }
 
-const allClasses = [s, a, b, c, d];
-
-function ClassPicker({classes, set}) {
-  return <div className={'picker'}>
+function ClassPicker({allClasses, classes, set}) {
+  return <div className='picker'>
     {
-      allClasses.map(cls => <ClassType
+      map(sortBy(allClasses, cls => -clsToPi[cls.toLowerCase()]), cls => <ClassType
         key={cls}
-        classType={cls}
+        cls={cls}
         className={clsx({'disabled': !includes(classes, cls)})}
         onClick={() => set(xor(classes, [cls]))}
       />)
@@ -137,12 +70,10 @@ function ClassPicker({classes, set}) {
   </div>
 }
 
-const allRaces = [road, dirt, cc];
-
-function RacePicker({races, set}) {
-  return <div className={'picker'}>
+function RacePicker({allRaces, races, set}) {
+  return <div className='picker'>
     {
-      allRaces.map(race => <RaceType
+      map(allRaces, race => <RaceType
         key={race}
         raceType={race}
         className={clsx({'disabled': !includes(races, race)})}
@@ -154,8 +85,11 @@ function RacePicker({races, set}) {
 
 function App() {
   const [now, setTime] = useState(new Date());
-  const [shownRaces, setShownRaces] = useState(allRaces);
-  const [shownClasses, setShownClasses] = useState(allClasses);
+  const [allRaces, setAllRaces] = useState([]);
+  const [allClasses, setAllClasses] = useState([]);
+  const [shownRaces, setShownRaces] = useState([]);
+  const [shownClasses, setShownClasses] = useState([]);
+  const [tours, setParsed] = useState([]);
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -166,33 +100,57 @@ function App() {
     }
   }, [])
 
-  const secondsPastHour = now.getMinutes() * 60 + now.getSeconds();
+  useEffect(() => {
+    papa.parse('/tour-schedule.csv', {
+      download: true,
+      complete: (results) => {
+        const cleaned = filter(results.data, (row) => row[0])
+        setParsed(cleaned);
+        const races = uniq(map(cleaned, row => row[4]));
+        setAllRaces(races);
+        setShownRaces(races);
+        const classes = uniq(map(cleaned, row => row[1]));
+        setAllClasses(classes);
+        setShownClasses(classes);
+      }
+    })
+  }, [])
 
   const sortedTours = sortBy(
-    tours.map((tour, index) => {
-      const tourTime = tourIndexToSecondsPastHour(index);
-      const secondsUntil = tourTime - secondsPastHour;
+    tours.map(([time, cls, pi, theme, type, ...tracks]) => {
+      const [tourHour, tourMinute] = split(time, ':');
+      const nowHour = now.getUTCHours();
+      const nowMinute = now.getUTCMinutes();
+      const nowSeconds = now.getUTCSeconds();
+      const secondsUntil = (tourHour - nowHour) * (60 * 60) + (tourMinute - nowMinute) * 60 - nowSeconds;
       return ({
-        ...tour,
-        tourTime,
-        secondsUntil: secondsUntil < 0 ? secondsUntil + 3600 : secondsUntil,
-        key: index
+        time,
+        cls,
+        pi,
+        theme,
+        type,
+        tracks,
+        secondsUntil: secondsUntil < 0 ? secondsUntil + (24 * 60 * 60) : secondsUntil,
+        key: time
       });
     }),
     'secondsUntil'
   );
   const filteredTours = filter(
     sortedTours,
-    tour => includes(shownRaces, tour.raceType) && includes(shownClasses, tour.classType)
+    tour => includes(shownRaces, tour.type) && includes(shownClasses, tour.cls)
   );
 
   return (
     <div className="App">
-      <p>{now.toLocaleTimeString()}</p>
-      <ClassPicker classes={shownClasses} set={setShownClasses}/>
-      <RacePicker races={shownRaces} set={setShownRaces}/>
+      <p>{now.toUTCString()} - - {now.toLocaleTimeString()}</p>
+      <a href="https://www.reddit.com/r/ForzaHorizon/comments/uf9l7o/list_of_all_720_horizon_tours_in_the_new_24_hour/">
+        Special thanks to u/aqx for documenting the tour playlist
+      </a>
+      <ClassPicker allClasses={allClasses} classes={shownClasses} set={setShownClasses}/>
+      <RacePicker allRaces={allRaces} races={shownRaces} set={setShownRaces}/>
       <div className="tours">
-        {filteredTours.map(tour => <Tour key={tour.key} tour={tour} setRaces={setShownRaces} setClasses={setShownClasses}/>)}
+        {filteredTours.map((t) => <Tour key={t.time} tour={t} setClasses={setShownClasses} setRaces={setShownRaces}/>)}
       </div>
     </div>
   );

@@ -89,35 +89,39 @@ button {
   background-color: grey !important;
 }
 
-.s1 {
+.pi-998 {
+  background-color: #5d7ac3;
+}
+
+.pi-900 {
   background-color: #a75dc3;
 }
 
-.a {
+.pi-800 {
   background-color: #e83354;
 }
 
-.b {
+.pi-700 {
   background-color: #ee621c;
 }
 
-.c {
+.pi-600 {
   background-color: #fbc538;
 }
 
-.d {
+.pi-500 {
   background-color: #71c3e6;
 }
 
-.road {
+.apex {
   background-color: #0f90c9;
 }
 
-.dirt {
+.wilds {
   background-color: #ee4708;
 }
 
-.cc {
+.baja {
   background-color: #25a847;
 }
 

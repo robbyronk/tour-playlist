@@ -1,0 +1,720 @@
+00:00,S1,900,Modern Super Cars,Apex,Arch of Mulegé Circuit,Descansar Dorado Sprint,Bahía de Plano Circuit
+00:02,B,700,Reasonably Priced Cars,Apex,Chihuahua Circuit,Riviera Sprint,Los Jardines Circuit
+00:04,S1,900,Anything Goes,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+00:06,B,700,Anything Goes,Baja,Estadio CCC,Oasis CC,Herencia CCC
+00:08,A,800,Land Rover,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+00:10,A,800,Unlimited Offroad,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+00:12,A,800,Anything Goes,Apex,Arch of Mulegé Circuit,Descansar Dorado Sprint,Bahía de Plano Circuit
+00:14,B,700,Classic Rally,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+00:16,C,600,Pickups & 4x4s,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+00:18,S1,900,Classic Racers,Apex,Emerald Circuit,Horizon Mexico Circuit,Arch of Mulegé Circuit
+00:20,S1,900,Hoonigan,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+00:22,A,800,Heavy Hitters,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+00:24,S1,900,Modern Muscle,Apex,Estadio Circuit,Dunas Blancas Sprint,Bahía de Plano Circuit
+00:26,A,800,United Kingdom,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+00:28,S1,900,Anything Goes,Baja,Baja CCC,El Descenso CC,Estadio CCC
+00:30,S1,900,Upgrade Heroes,Apex,Lookout Circuit,Copper Canyon Sprint,Chihuahua Circuit
+00:32,S1,900,Anything Goes,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+00:34,C,600,Pickups & 4x4s,Baja,Ek'Balam CCC,Trópico CC,Restos CC
+00:36,A,800,Super Saloons,Apex,Arch of Mulegé Circuit,Plaza Circuit,Playa Azul Circuit
+00:38,B,700,Evo vs. Impreza,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+00:40,A,800,Sports Utility Heroes,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+00:42,S1,900,Classic Racers,Apex,Emerald Circuit,Llanuras Sprint,Bola Ocho Circuit
+00:44,A,800,Unlimited Offroad,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+00:46,S1,900,Anything Goes,Baja,Costa Este CC,Foto Final CC,Restos CC
+00:48,A,800,BMW,Apex,Los Jardines Circuit,Tierra Próspera Circuit,Volcán Sprint
+00:50,C,600,Retro Rally,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+00:52,C,600,Pickups & 4x4s,Baja,Estadio CCC,Las Granjas CC,Festival CC
+00:54,S1,900,Anything Goes,Apex,Estadio Circuit,Copper Canyon Sprint,Playa Azul Circuit
+00:56,S1,900,Chevrolet vs. Dodge,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+00:58,D,500,Buggies,Baja,Las Granjas CC,Costera CCC,Baja CCC
+01:00,A,800,Anything Goes,Apex,Bola Ocho Circuit,Cathedral Circuit,Plaza Circuit
+01:02,A,800,Ford,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+01:04,A,800,Vans & Utility,Baja,Costa Este CC,Foto Final CC,Restos CC
+01:06,A,800,Anything Goes,Apex,Lookout Circuit,Cathedral Circuit,Chihuahua Circuit
+01:08,S1,900,VW Beetle,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+01:10,S1,900,Anything Goes,Baja,Trópico CC,Costa Este CC,Herencia CCC
+01:12,A,800,Mustang vs. Camaro,Apex,Arch of Mulegé Circuit,Plaza Circuit,Playa Azul Circuit
+01:14,B,700,Anything Goes,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+01:16,A,800,UTVs,Baja,Foto Final CC,Herencia CCC,Trópico CC
+01:18,S1,900,Anything Goes,Apex,Lookout Circuit,Copper Canyon Sprint,Chihuahua Circuit
+01:20,A,800,Super Hot Hatch,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+01:22,S1,900,Unlimited Buggies,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+01:24,B,700,Italy,Apex,Bahía de Plano Circuit,Emerald Circuit,Arch of Mulegé Circuit
+01:26,S1,900,VW Beetle,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+01:28,A,800,Land Rover,Baja,El Descenso CC,Oasis CC,Airfield CCC
+01:30,S1,900,Anything Goes,Apex,Emerald Circuit,Reservorio Sprint,Los Jardines Circuit
+01:32,S1,900,Anything Goes,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+01:34,A,800,Vans & Utility,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+01:36,B,700,Anything Goes,Apex,Bola Ocho Circuit,Cathedral Circuit,Plaza Circuit
+01:38,A,800,Super Saloons,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+01:40,S1,900,Anything Goes,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+01:42,B,700,Modern Sports Cars,Apex,Emerald Circuit,Horizon Mexico Circuit,Arch of Mulegé Circuit
+01:44,A,800,Anything Goes,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+01:46,B,700,Pickups & 4x4s,Baja,Foto Final CC,Herencia CCC,Trópico CC
+01:48,S1,900,Track Toys,Apex,Sierra Verde Sprint,Horizon Mexico Circuit,Tierra Próspera Circuit
+01:50,S1,900,Hoonigan,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+01:52,S1,900,Unlimited Buggies,Baja,Baja CCC,El Descenso CC,Estadio CCC
+01:54,A,800,Iconic Movie Cars,Apex,Emerald Circuit,Horizon Mexico Circuit,Arch of Mulegé Circuit
+01:56,A,800,Sports Utility Heroes,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+01:58,B,700,Offroad,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+02:00,A,800,Anything Goes,Apex,Horizon Mexico Circuit,Bola Ocho Circuit,Volcán Sprint
+02:02,S1,900,Ford,Wilds,Mangrove Scramble,Bajío Trail,Teotihuacán Scramble
+02:04,A,800,Sports Utility Heroes,Baja,Las Dunas CC,Costera CCC,Oasis CC
+02:06,B,700,Classic Muscle,Apex,Lookout Circuit,Cathedral Circuit,Chihuahua Circuit
+02:08,S1,900,Rally Monsters,Wilds,San Juan Scramble,El Pípila Scramble,Caldera Scramble
+02:10,A,800,Vans & Utility,Baja,Copper Canyon CC,Las Ranas CC,Ek'Balam CCC
+02:12,S1,900,Anything Goes,Apex,Chihuahua Circuit,Riviera Sprint,Los Jardines Circuit
+02:14,A,800,Unlimited Offroad,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+02:16,A,800,Vans & Utility,Baja,El Descenso CC,Oasis CC,Airfield CCC
+02:18,A,800,Super Hot Hatch,Apex,Estadio CCC,Dunas Blancas Sprint,Bahía de Plano Circuit
+02:20,S1,900,Anything Goes,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+02:22,A,800,Offroad,Baja,Foto Final CC,Herencia CCC,Trópico CC
+02:24,S1,900,Open Top,Apex,Emerald Circuit,Reservorio Sprint,Los Jardines Circuit
+02:26,A,800,USA,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+02:28,C,600,Pickups & 4x4s,Baja,Trópico CC,Costa Este CC,Herencia CCC
+02:30,B,700,Retro Saloons,Apex,Bola Ocho Circuit,Cathedral Circuit,Plaza Circuit
+02:32,S1,900,Anything Goes,Wilds,Mangrove Scramble,Bajío Trail,Teotihuacán Scramble
+02:34,A,800,Heavy Hitters,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+02:36,S1,900,Anything Goes,Apex,Arch of Mulegé Circuit,Plaza Circuit,Playa Azul Circuit
+02:38,B,700,Modern Rally,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+02:40,A,800,UTVs,Baja,Restos CC,Las Granjas CC,Airfield CCC
+02:42,A,800,Ferrari,Apex,Estadio Circuit,Tierra Próspera Circuit,Cathedral Circuit
+02:44,B,700,Pickups & 4x4s,Wilds,Caldera Scramble,Fuera del Camino Trail,San Juan Scramble
+02:46,S1,900,Anything Goes,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+02:48,S2,998,Extreme Track Toys,Apex,Emerald Circuit,Llanuras Sprint,Bola Ocho Circuit
+02:50,S1,900,1990’s,Wilds,San Juan Scramble,El Pípila Scramble,Caldera Scramble
+02:52,D,500,Buggies,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+02:54,S1,900,Modern Super Cars,Apex,Arch of Mulegé Circuit,Plaza Circuit,Playa Azul Circuit
+02:56,A,800,USA,Wilds,Mangrove Scramble,Bajío Trail,Teotihuacán Scramble
+02:58,C,600,Pickups & 4x4s,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+03:00,S2,998,High Rollers,Apex,Tierra Próspera Circuit,Llanuras Sprint,Plaza Circuit
+03:02,A,800,Rods and Customs,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+03:04,A,800,Sports Utility Heroes,Baja,Baja CCC,Urban CCC,Las Ranas CC
+03:06,S1,900,AMG vs. M Sport,Apex,Horizon Mexico Circuit,Bola Ocho Circuit,Volcán Sprint
+03:08,S1,900,Rally Monsters,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+03:10,S1,900,Anything Goes,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+03:12,A,800,Ferrari,Apex,Panorámica Sprint,Chihuahua Circuit,Playa Azul Circuit
+03:14,B,700,Hot Hatch,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+03:16,A,800,Jeep,Baja,Costa Este CC,Foto Final CC,Restos CC
+03:18,A,800,Iconic Movie Cars,Apex,Bola Ocho Circuit,Cathedral Circuit,Plaza Circuit
+03:20,A,800,Super Hot Hatch,Wilds,Teotihuacán Scramble,Tulum Trail,Barranca Trail
+03:22,S1,900,Anything Goes,Baja,Baja CCC,Urban CCC,Las Ranas CC
+03:24,B,700,Anything Goes,Apex,Lookout Circuit,Cathedral Circuit,Chihuahua Circuit
+03:26,B,700,Offroad,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+03:28,C,600,GMC,Baja,Estadio CCC,Las Granjas CC,Festival CC
+03:30,S1,900,Italy,Apex,Chihuahua Circuit,Riviera Sprint,Los Jardines Circuit
+03:32,S1,900,Anything Goes,Wilds,Mangrove Scramble,Barranca Trail,El Pípila Scramble
+03:34,A,800,Sports Utility Heroes,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+03:36,B,700,1950’s,Apex,Reservorio Sprint,Bola Ocho Circuit,Lookout Circuit
+03:38,S1,900,VW Beetle,Wilds,Caldera Scramble,Baja California Trail,Mulegé Town Scramble
+03:40,B,700,Pickups & 4x4s,Baja,Trópico CC,Las Ranas CC,Costa Este CC
+03:42,S1,900,Anything Goes,Apex,Panorámica Sprint,Chihuahua Circuit,Playa Azul Circuit
+03:44,A,800,Jeep,Wilds,San Juan Scramble,El Pípila Scramble,Caldera Scramble
+03:46,S1,900,Anything Goes,Baja,Las Dunas CC,Baja CCC,Festival CC
+03:48,S1,900,1980’s,Apex,Estadio Circuit,Copper Canyon Sprint,Playa Azul Circuit
+03:50,S1,900,Mustang vs. Camaro,Wilds,Teotihuacán Scramble,Tulum Trail,Barranca Trail
+03:52,A,800,Jeep,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+03:54,A,800,Anything Goes,Apex,Bahía de Plano Circuit,Emerald Circuit,Arch of Mulegé Circuit
+03:56,A,800,2000’s,Wilds,Mangrove Scramble,Barranca Trail,El Pípila Scramble
+03:58,A,800,Heavy Hitters,Baja,Baja CCC,Urban CCC,Las Ranas CC
+04:00,C,600,Classic Muscle,Apex,Lookout Circuit,Cathedral Circuit,Estadio Circuit
+04:02,A,800,1970’s,Wilds,Caldera Scramble,Baja California Trail,Mulegé Town Scramble
+04:04,S1,900,Anything Goes,Baja,El Descenso CC,Oasis CC,Airfield CCC
+04:06,A,800,GT Cars,Apex,Arch of Mulegé Circuit,Descansar Dorado Sprint,Bahía de Plano Circuit
+04:08,S1,900,Modern Muscle,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+04:10,D,500,Buggies,Baja,Estadio CCC,Oasis CC,Herencia CCC
+04:12,A,800,Rods and Customs,Apex,Tierra Próspera Circuit,Llanuras Sprint,Plaza Circuit
+04:14,A,800,Anything Goes,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+04:16,A,800,Vans & Utility,Baja,Las Granjas CC,Costera CCC,Baja CCC
+04:18,S1,900,Track Toys,Apex,Horizon Mexico Circuit,Plaza Circuit,Copper Canyon Sprint
+04:20,S1,900,Anything Goes,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+04:22,A,800,UTVs,Baja,Trópico CC,Las Ranas CC,Costa Este CC
+04:24,A,800,Germany,Apex,Sierra Verde Sprint,Horizon Mexico Circuit,Tierra Próspera Circuit
+04:26,A,800,Sports Utility Heroes,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+04:28,A,800,Anything Goes,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+04:30,A,800,Iconic Movie Cars,Apex,Bahía de Plano Circuit,Emerald Circuit,Arch of Mulegé Circuit
+04:32,S1,900,VW Beetle,Wilds,Caldera Scramble,Fuera del Camino Trail,San Juan Scramble
+04:34,A,800,Jeep,Baja,Restos CC,Las Granjas CC,Airfield CCC
+04:36,S1,900,Retro Super Cars,Apex,Lookout Circuit,Cathedral Circuit,Estadio Circuit
+04:38,B,700,Offroad,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+04:40,S1,900,Unlimited Buggies,Baja,El Descenso CC,Oasis CC,Airfield CCC
+04:42,A,800,Modern Muscle,Apex,Tierra Próspera Circuit,Llanuras Sprint,Plaza Circuit
+04:44,A,800,Unlimited Offroad,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+04:46,B,700,Anything Goes,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+04:48,S1,900,Mustang vs. Camaro,Apex,Los Jardines Circuit,Tierra Próspera Circuit,Volcán Sprint
+04:50,A,800,Super Hot Hatch,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+04:52,B,700,Offroad,Baja,Las Dunas CC,Costera CCC,Oasis CC
+04:54,A,800,Anything Goes,Apex,Sierra Verde Sprint,Horizon Mexico Circuit,Tierra Próspera Circuit
+04:56,A,800,Sports Utility Heroes,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+04:58,A,800,Jeep,Baja,Trópico CC,Costa Este CC,Herencia CCC
+05:00,A,800,Modern Sports Cars,Apex,Bahía de Plano Circuit,Arch of Mulegé Circuit,Sierra Verde Sprint
+05:02,A,800,Heavy Hitters,Wilds,Mangrove Scramble,Barranca Trail,El Pípila Scramble
+05:04,A,800,Anything Goes,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+05:06,A,800,Super Hot Hatch,Apex,Emerald Circuit,Reservorio Sprint,Los Jardines Circuit
+05:08,A,800,Anything Goes,Wilds,Teotihuacán Scramble,Tulum Trail,Barranca Trail
+05:10,A,800,Unlimited Offroad,Baja,Ek'Balam CCC,Trópico CC,Restos CC
+05:12,S2,998,Hypercars,Apex,Estadio Circuit,Dunas Blancas Sprint,Bahía de Plano Circuit
+05:14,S1,900,Hoonigan,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+05:16,B,700,Pickups & 4x4s,Baja,Restos CC,Las Granjas CC,Airfield CCC
+05:18,S1,900,Anything Goes,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+05:20,B,700,Offroad,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+05:22,S1,900,Unlimited Buggies,Baja,Baja CCC,Urban CCC,Las Ranas CC
+05:24,A,800,Super Saloons,Apex,Lookout Circuit,Cathedral Circuit,Chihuahua Circuit
+05:26,B,700,Offroad,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+05:28,S1,900,Anything Goes,Baja,Trópico CC,Las Ranas CC,Costa Este CC
+05:30,S1,900,Anything Goes,Apex,Horizon Mexico Circuit,Plaza Circuit,Copper Canyon Sprint
+05:32,A,800,Vans & Utility,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+05:34,A,800,Jeep,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+05:36,S2,998,France,Apex,Estadio Circuit,Copper Canyon Sprint,Playa Azul Circuit
+05:38,A,800,Anything Goes,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+05:40,A,800,Heavy Hitters,Baja,Baja CCC,El Descenso CC,Estadio CCC
+05:42,S1,900,Hoonigan,Apex,Arch of Mulegé Circuit,Descansar Dorado Sprint,Bahía de Plano Circuit
+05:44,B,700,Anything Goes,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+05:46,A,800,Jeep,Baja,Las Granjas CC,Costera CCC,Baja CCC
+05:48,B,700,Reasonably Priced Cars,Apex,Panorámica Sprint,Chihuahua Circuit,Playa Azul Circuit
+05:50,A,800,Rods and Customs,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+05:52,A,800,UTVs,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+05:54,B,700,Anything Goes,Apex,Lookout Circuit,Cathedral Circuit,Estadio Circuit
+05:56,B,700,Offroad,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+05:58,S1,900,Anything Goes,Baja,Restos CC,Las Granjas CC,Airfield CCC
+06:00,S1,900,McLaren,Apex,Tierra Próspera Circuit,Llanuras Sprint,Plaza Circuit
+06:02,A,800,Upgrade Heroes,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+06:04,S1,900,Anything Goes,Baja,Copper Canyon CC,Las Ranas CC,Ek'Balam CCC
+06:06,S1,900,Hypercars,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+06:08,S1,900,Chevrolet vs. Dodge,Wilds,Caldera Scramble,Fuera del Camino Trail,San Juan Scramble
+06:10,S1,900,Anything Goes,Baja,Las Granjas CC,Costera CCC,Baja CCC
+06:12,S2,998,Extreme Track Toys,Apex,Arch of Mulegé Circuit,Plaza Circuit,Playa Azul Circuit
+06:14,A,800,1980’s,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+06:16,A,800,Unlimited Buggies,Baja,Costa Este CC,Foto Final CC,Restos CC
+06:18,C,600,Retro Sports Cars,Apex,Estadio CCC,Tierra Próspera Circuit,Cathedral Circuit
+06:20,B,700,Offroad,Wilds,Mangrove Scramble,Barranca Trail,El Pípila Scramble
+06:22,S1,900,Anything Goes,Baja,Las Dunas CC,Costera CCC,Oasis CC
+06:24,S1,900,1990’s,Apex,Los Jardines Circuit,Tierra Próspera Circuit,Volcán Sprint
+06:26,S1,900,Anything Goes,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+06:28,A,800,Vans & Utility,Baja,Estadio CCC,Oasis CC,Herencia CCC
+06:30,A,800,Muscle vs. Tuner,Apex,Panorámica Sprint,Chihuahua Circuit,Playa Azul Circuit
+06:32,C,600,Retro Rally,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+06:34,B,700,Anything Goes,Baja,Foto Final CC,Herencia CCC,Trópico CC
+06:36,B,700,Modern Sports Cars,Apex,Reservorio Sprint,Bola Ocho Circuit,Lookout Circuit
+06:38,B,700,Pickups & 4x4s,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+06:40,A,800,Sports Utility Heroes,Baja,Las Dunas CC,Baja CCC,Festival CC
+06:42,S1,900,Upgrade Heroes,Apex,Arch of Mulegé Circuit,Descansar Dorado Sprint,Bahía de Plano Circuit
+06:44,A,800,Anything Goes,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+06:46,A,800,Vans & Utility,Baja,Trópico CC,Las Ranas CC,Costa Este CC
+06:48,S1,900,Modern Super Cars,Apex,Lookout Circuit,Copper Canyon Sprint,Chihuahua Circuit
+06:50,B,700,Evo vs. Impreza,Wilds,San Juan Scramble,El Pípila Scramble,Caldera Scramble
+06:52,A,800,UTVs,Baja,Las Dunas CC,Baja CCC,Festival CC
+06:54,B,700,Retro Sports Cars,Apex,Bahía de Plano Circuit,Arch of Mulegé Circuit,Sierra Verde Sprint
+06:56,A,800,2010’s,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+06:58,B,700,Anything Goes,Baja,Estadio CCC,Oasis CC,Herencia CCC
+07:00,S1,900,Hypercars,Apex,Bola Ocho Circuit,Los Jardines Circuit,Playa Azul Circuit
+07:02,A,800,Anything Goes,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+07:04,C,600,Pickups & 4x4s,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+07:06,S1,900,1960’s,Apex,Panorámica Sprint,Chihuahua Circuit,Playa Azul Circuit
+07:08,S1,900,Anything Goes,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+07:10,C,600,Pickups & 4x4s,Baja,Ek'Balam CCC,Trópico CC,Restos CC
+07:12,A,800,United Kingdom,Apex,Arch of Mulegé Circuit,Gran Pantano Sprint,Playa Azul Circuit
+07:14,A,800,2000’s,Wilds,Caldera Scramble,Baja California Trail,Mulegé Town Scramble
+07:16,A,800,UTVs,Baja,Trópico CC,Costa Este CC,Herencia CCC
+07:18,A,800,Chevrolet vs. Dodge,Apex,Horizon Mexico Circuit,Bola Ocho Circuit,Volcán Sprint
+07:20,S1,900,Rally Monsters,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+07:22,S1,900,Unlimited Buggies,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+07:24,A,800,Classic Racers,Apex,Emerald Circuit,Horizon Mexico Circuit,Arch of Mulegé Circuit
+07:26,A,800,Upgrade Heroes,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+07:28,A,800,Unlimited Offroad,Baja,Baja CCC,El Descenso CC,Estadio CCC
+07:30,S1,900,Italy,Apex,Bahía de Plano Circuit,Arch of Mulegé Circuit,Sierra Verde Sprint
+07:32,S1,900,Ford,Wilds,Teotihuacán Scramble,Tulum Trail,Barranca Trail
+07:34,C,600,GMC,Baja,Copper Canyon CC,Las Ranas CC,Ek'Balam CCC
+07:36,A,800,Super Saloons,Apex,Lookout Circuit,Cathedral Circuit,Estadio Circuit
+07:38,B,700,Pickups & 4x4s,Wilds,Mangrove Scramble,Bajío Trail,Teotihuacán Scramble
+07:40,A,800,Jeep,Baja,Estadio CCC,Las Granjas CC,Festival CC
+07:42,S1,900,Anything Goes,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+07:44,B,700,Mini,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+07:46,B,700,Anything Goes,Baja,Ek'Balam CCC,Trópico CC,Restos CC
+07:48,S2,998,Anything Goes,Apex,Estadio Circuit,Dunas Blancas Sprint,Bahía de Plano Circuit
+07:50,A,800,2010’s,Wilds,Teotihuacán Scramble,Tulum Trail,Barranca Trail
+07:52,A,800,Unlimited Offroad,Baja,Las Dunas CC,Baja CCC,Festival CC
+07:54,S1,900,Retro Super Cars,Apex,Arch of Mulegé Circuit,Gran Pantano Sprint,Playa Azul Circuit
+07:56,B,700,Retro Rally,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+07:58,S1,900,Unlimited Buggies,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+08:00,A,800,Anything Goes,Apex,Bahía de Plano Circuit,Arch of Mulegé Circuit,Sierra Verde Sprint
+08:02,A,800,Heavy Hitters,Wilds,Caldera Scramble,Baja California Trail,Mulegé Town Scramble
+08:04,B,700,Pickups & 4x4s,Baja,Copper Canyon CC,Las Ranas CC,Ek'Balam CCC
+08:06,S1,900,Ferrari,Apex,Sierra Verde Sprint,Horizon Mexico Circuit,Tierra Próspera Circuit
+08:08,A,800,Anything Goes,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+08:10,A,800,Unlimited Buggies,Baja,Las Dunas CC,Costera CCC,Oasis CC
+08:12,S1,900,Mustang vs. Camaro,Apex,Emerald Circuit,Llanuras Sprint,Bola Ocho Circuit
+08:14,A,800,Rods and Customs,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+08:16,B,700,Anything Goes,Baja,Estadio CCC,Las Granjas CC,Festival CC
+08:18,A,800,Super Saloons,Apex,Horizon Mexico Circuit,Plaza Circuit,Copper Canyon Sprint
+08:20,B,700,Evo vs. Impreza,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+08:22,B,700,Pickups & 4x4s,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+08:24,A,800,Open Top,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+08:26,A,800,Anything Goes,Wilds,Caldera Scramble,Baja California Trail,Mulegé Town Scramble
+08:28,B,700,Anything Goes,Baja,Estadio CCC,Oasis CC,Herencia CCC
+08:30,S1,900,Ferrari,Apex,Arch of Mulegé Circuit,Gran Pantano Sprint,Playa Azul Circuit
+08:32,S1,900,Anything Goes,Wilds,San Juan Scramble,El Pípila Scramble,Caldera Scramble
+08:34,A,800,Unlimited Offroad,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+08:36,A,800,2000’s,Apex,Estadio Circuit,Dunas Blancas Sprint,Bahía de Plano Circuit
+08:38,B,700,Evo vs. Impreza,Wilds,Mangrove Scramble,Bajío Trail,Teotihuacán Scramble
+08:40,C,600,Pickups & 4x4s,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+08:42,B,700,Mazda,Apex,Lookout Circuit,Copper Canyon Sprint,Chihuahua Circuit
+08:44,S1,900,Anything Goes,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+08:46,A,800,Heavy Hitters,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+08:48,S1,900,Forza Favourites,Apex,Horizon Mexico Circuit,Plaza Circuit,Copper Canyon Sprint
+08:50,A,800,Sports Utility Heroes,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+08:52,S1,900,Anything Goes,Baja,Baja CCC,El Descenso CC,Estadio CCC
+08:54,S1,900,Nissan,Apex,Reservorio Sprint,Bola Ocho Circuit,Lookout Circuit
+08:56,S1,900,VW Beetle,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+08:58,C,600,Pickups & 4x4s,Baja,Ek'Balam CCC,Trópico CC,Restos CC
+09:00,A,800,Ferrari,Apex,Emerald Circuit,Llanuras Sprint,Bola Ocho Circuit
+09:02,S1,900,Anything Goes,Wilds,Caldera Scramble,Fuera del Camino Trail,San Juan Scramble
+09:04,A,800,Sports Utility Heroes,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+09:06,S1,900,Anything Goes,Apex,Tierra Próspera Circuit,Llanuras Sprint,Plaza Circuit
+09:08,A,800,Land Rover,Wilds,Mangrove Scramble,Barranca Trail,El Pípila Scramble
+09:10,S1,900,Anything Goes,Baja,Costa Este CC,Foto Final CC,Restos CC
+09:12,A,800,Retro Muscle,Apex,Horizon Mexico Circuit,Bola Ocho Circuit,Volcán Sprint
+09:14,B,700,Modern Rally,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+09:16,C,600,Pickups & 4x4s,Baja,Estadio CCC,Las Granjas CC,Festival CC
+09:18,S1,900,Chevrolet vs. Dodge,Apex,Arch of Mulegé Circuit,Gran Pantano Sprint,Playa Azul Circuit
+09:20,A,800,Australia,Wilds,Caldera Scramble,Fuera del Camino Trail,San Juan Scramble
+09:22,D,500,Buggies,Baja,Las Granjas CC,Costera CCC,Baja CCC
+09:24,A,800,Super Saloons,Apex,Bola Ocho Circuit,Los Jardines Circuit,Playa Azul Circuit
+09:26,S1,900,Modern Muscle,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+09:28,A,800,Vans & Utility,Baja,Costa Este CC,Foto Final CC,Restos CC
+09:30,A,800,Anything Goes,Apex,Reservorio Sprint,Bola Ocho Circuit,Lookout Circuit
+09:32,A,800,Classic Muscle,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+09:34,S1,900,Anything Goes,Baja,Trópico CC,Costa Este CC,Herencia CCC
+09:36,S1,900,Anything Goes,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+09:38,A,800,1970’s,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+09:40,A,800,UTVs,Baja,Foto Final CC,Herencia CCC,Trópico CC
+09:42,S2,998,Extreme Track Toys,Apex,Estadio Circuit,Copper Canyon Sprint,Playa Azul Circuit
+09:44,S1,900,Ford,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+09:46,S1,900,Unlimited Buggies,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+09:48,A,800,AMG vs. M Sport,Apex,Lookout Circuit,Copper Canyon Sprint,Chihuahua Circuit
+09:50,A,800,United Kingdom,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+09:52,A,800,Land Rover,Baja,El Descenso CC,Oasis CC,Airfield CCC
+09:54,B,700,1950’s,Apex,Estadio CCC,Tierra Próspera Circuit,Cathedral Circuit
+09:56,S1,900,1980’s,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+09:58,A,800,Vans & Utility,Baja,Estadio CCC,Oasis CC,Herencia CCC
+10:00,A,800,Anything Goes,Apex,Emerald Circuit,Horizon Mexico Circuit,Arch of Mulegé Circuit
+10:02,B,700,Pickups & 4x4s,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+10:04,S1,900,Anything Goes,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+10:06,S1,900,Anything Goes,Apex,Arch of Mulegé Circuit,Gran Pantano Sprint,Playa Azul Circuit
+10:08,B,700,Retro Muscle,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+10:10,B,700,Pickups & 4x4s,Baja,Foto Final CC,Herencia CCC,Trópico CC
+10:12,S1,900,Lamborghini,Apex,Bola Ocho Circuit,Los Jardines Circuit,Playa Azul Circuit
+10:14,S1,900,VW Beetle,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+10:16,S1,900,Unlimited Buggies,Baja,Baja CCC,El Descenso CC,Estadio CCC
+10:18,B,700,Hot Hatch,Apex,Horizon Mexico Circuit,Bola Ocho Circuit,Volcán Sprint
+10:20,A,800,Heavy Hitters,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+10:22,B,700,Offroad,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+10:24,A,800,Anything Goes,Apex,Los Jardines Circuit,Tierra Próspera Circuit,Volcán Sprint
+10:26,A,800,Land Rover,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+10:28,A,800,Sports Utility Heroes,Baja,Las Dunas CC,Costera CCC,Oasis CC
+10:30,B,700,Toyota,Apex,Lookout Circuit,Cathedral Circuit,Estadio Circuit
+10:32,A,800,Vans & Utility,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+10:34,S1,900,Anything Goes,Baja,Copper Canyon CC,Las Ranas CC,Ek'Balam CCC
+10:36,A,800,Ford,Apex,Bola Ocho Circuit,Los Jardines Circuit,Playa Azul Circuit
+10:38,A,800,Land Rover,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+10:40,A,800,Vans & Utility,Baja,El Descenso CC,Oasis CC,Airfield CCC
+10:42,S1,900,Forza Favourites,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+10:44,B,700,Classic Rally,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+10:46,A,800,Unlimited Offroad,Baja,Foto Final CC,Herencia CCC,Trópico CC
+10:48,A,800,Rods and Customs,Apex,Bahía de Plano Circuit,Emerald Circuit,Arch of Mulegé Circuit
+10:50,S1,900,Hoonigan,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+10:52,B,700,Pickups & 4x4s,Baja,Trópico CC,Costa Este CC,Herencia CCC
+10:54,S1,900,Classic Racers,Apex,Sierra Verde Sprint,Horizon Mexico Circuit,Tierra Próspera Circuit
+10:56,A,800,United Kingdom,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+10:58,A,800,Heavy Hitters,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+11:00,A,800,GT Cars,Apex,Bola Ocho Circuit,Cathedral Circuit,Plaza Circuit
+11:02,S1,900,Anything Goes,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+11:04,A,800,UTVs,Baja,Restos CC,Las Granjas CC,Airfield CCC
+11:06,A,800,Iconic Movie Cars,Apex,Los Jardines Circuit,Tierra Próspera Circuit,Volcán Sprint
+11:08,B,700,Evo vs. Impreza,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+11:10,S1,900,Anything Goes,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+11:12,S1,900,Lamborghini vs. Ferrari,Apex,Estadio Circuit,Copper Canyon Sprint,Playa Azul Circuit
+11:14,A,800,Unlimited Offroad,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+11:16,D,500,Buggies,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+11:18,A,800,GT Cars,Apex,Bahía de Plano Circuit,Emerald Circuit,Arch of Mulegé Circuit
+11:20,A,800,Anything Goes,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+11:22,C,600,Pickups & 4x4s,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+11:24,S1,900,Modern Muscle,Apex,Emerald Circuit,Reservorio Sprint,Los Jardines Circuit
+11:26,S1,900,Chevrolet vs. Dodge,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+11:28,A,800,Sports Utility Heroes,Baja,Baja CCC,Urban CCC,Las Ranas CC
+11:30,S1,900,Modern Super Cars,Apex,Arch of Mulegé Circuit,Descansar Dorado Sprint,Bahía de Plano Circuit
+11:32,A,800,Ford,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+11:34,S1,900,Anything Goes,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+11:36,B,700,1950’s,Apex,Chihuahua Circuit,Riviera Sprint,Los Jardines Circuit
+11:38,S1,900,VW Beetle,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+11:40,A,800,Jeep,Baja,Costa Este CC,Foto Final CC,Restos CC
+11:42,B,700,Anything Goes,Apex,Estadio Circuit,Tierra Próspera Circuit,Cathedral Circuit
+11:44,A,800,UTVs,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+11:46,S1,900,Anything Goes,Baja,Baja CCC,Urban CCC,Las Ranas CC
+11:48,A,800,Retro Muscle,Apex,Horizon Mexico Circuit,Plaza Circuit,Copper Canyon Sprint
+11:50,A,800,Super Hot Hatch,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+11:52,C,600,GMC,Baja,Estadio CCC,Las Granjas CC,Festival CC
+11:54,S1,900,Anything Goes,Apex,Bola Ocho Circuit,Los Jardines Circuit,Playa Azul Circuit
+11:56,S1,900,VW Beetle,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+11:58,A,800,Sports Utility Heroes,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+12:00,A,800,Iconic Movie Cars,Apex,Lookout Circuit,Cathedral Circuit,Chihuahua Circuit
+12:02,S1,900,Anything Goes,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+12:04,B,700,Pickups & 4x4s,Baja,Trópico CC,Las Ranas CC,Costa Este CC
+12:06,A,800,Mustang vs. Camaro,Apex,Estadio Circuit,Tierra Próspera Circuit,Cathedral Circuit
+12:08,A,800,Super Saloons,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+12:10,S1,900,Anything Goes,Baja,Las Dunas CC,Baja CCC,Festival CC
+12:12,S1,900,Japan,Apex,Reservorio Sprint,Bola Ocho Circuit,Lookout Circuit
+12:14,A,800,Anything Goes,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+12:16,A,800,Jeep,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+12:18,A,800,Chevrolet vs. Dodge,Apex,Chihuahua Circuit,Riviera Sprint,Los Jardines Circuit
+12:20,S1,900,Hoonigan,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+12:22,A,800,Heavy Hitters,Baja,Baja CCC,Urban CCC,Las Ranas CC
+12:24,S1,900,Track Toys,Apex,Emerald Circuit,Reservorio Sprint,Los Jardines Circuit
+12:26,A,800,Sports Utility Heroes,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+12:28,S1,900,Anything Goes,Baja,El Descenso CC,Oasis CC,Airfield CCC
+12:30,B,700,Classic Muscle,Apex,Bahía de Plano Circuit,Arch of Mulegé Circuit,Sierra Verde Sprint
+12:32,B,700,Reasonably Priced Cars,Apex,Chihuahua Circuit,Riviera Sprint,Los Jardines Circuit
+12:34,S1,900,Anything Goes,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+12:36,B,700,Anything Goes,Baja,Estadio CCC,Oasis CC,Herencia CCC
+12:38,A,800,Land Rover,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+12:40,A,800,Unlimited Offroad,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+12:42,A,800,Anything Goes,Apex,Arch of Mulegé Circuit,Descansar Dorado Sprint,Bahía de Plano Circuit
+12:44,B,700,Classic Rally,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+12:46,C,600,Pickups & 4x4s,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+12:48,S1,900,Classic Racers,Apex,Emerald Circuit,Horizon Mexico Circuit,Arch of Mulegé Circuit
+12:50,S1,900,Hoonigan,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+12:52,A,800,Heavy Hitters,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+12:54,S1,900,Modern Muscle,Apex,Estadio Circuit,Dunas Blancas Sprint,Bahía de Plano Circuit
+12:56,A,800,United Kingdom,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+12:58,S1,900,Anything Goes,Baja,Baja CCC,El Descenso CC,Estadio CCC
+13:00,S1,900,Upgrade Heroes,Apex,Lookout Circuit,Copper Canyon Sprint,Chihuahua Circuit
+13:02,S1,900,Anything Goes,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+13:04,C,600,Pickups & 4x4s,Baja,Ek'Balam CCC,Trópico CC,Restos CC
+13:06,A,800,Super Saloons,Apex,Arch of Mulegé Circuit,Plaza Circuit,Playa Azul Circuit
+13:08,B,700,Evo vs. Impreza,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+13:10,A,800,Sports Utility Heroes,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+13:12,S1,900,Classic Racers,Apex,Emerald Circuit,Llanuras Sprint,Bola Ocho Circuit
+13:14,A,800,Unlimited Offroad,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+13:16,S1,900,Anything Goes,Baja,Costa Este CC,Foto Final CC,Restos CC
+13:18,A,800,BMW,Apex,Los Jardines Circuit,Tierra Próspera Circuit,Volcán Sprint
+13:20,C,600,Retro Rally,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+13:22,C,600,Pickups & 4x4s,Baja,Estadio CCC,Las Granjas CC,Festival CC
+13:24,S1,900,Anything Goes,Apex,Estadio Circuit,Copper Canyon Sprint,Playa Azul Circuit
+13:26,S1,900,Chevrolet vs. Dodge,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+13:28,D,500,Buggies,Baja,Las Granjas CC,Costera CCC,Baja CCC
+13:30,A,800,Anything Goes,Apex,Bola Ocho Circuit,Cathedral Circuit,Plaza Circuit
+13:32,A,800,Ford,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+13:34,A,800,Vans & Utility,Baja,Costa Este CC,Foto Final CC,Restos CC
+13:36,A,800,Anything Goes,Apex,Lookout Circuit,Cathedral Circuit,Chihuahua Circuit
+13:38,S1,900,VW Beetle,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+13:40,S1,900,Anything Goes,Baja,Trópico CC,Costa Este CC,Herencia CCC
+13:42,A,800,Mustang vs. Camaro,Apex,Arch of Mulegé Circuit,Plaza Circuit,Playa Azul Circuit
+13:44,B,700,Anything Goes,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+13:46,A,800,UTVs,Baja,Foto Final CC,Herencia CCC,Trópico CC
+13:48,S1,900,Anything Goes,Apex,Lookout Circuit,Copper Canyon Sprint,Chihuahua Circuit
+13:50,A,800,Super Hot Hatch,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+13:52,S1,900,Unlimited Buggies,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+13:54,B,700,Italy,Apex,Bahía de Plano Circuit,Emerald Circuit,Arch of Mulegé Circuit
+13:56,S1,900,VW Beetle,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+13:58,A,800,Land Rover,Baja,El Descenso CC,Oasis CC,Airfield CCC
+14:00,S1,900,Anything Goes,Apex,Emerald Circuit,Reservorio Sprint,Los Jardines Circuit
+14:02,S1,900,Anything Goes,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+14:04,A,800,Vans & Utility,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+14:06,B,700,Anything Goes,Apex,Bola Ocho Circuit,Cathedral Circuit,Plaza Circuit
+14:08,A,800,Super Saloons,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+14:10,S1,900,Anything Goes,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+14:12,B,700,Modern Sports Cars,Apex,Emerald Circuit,Horizon Mexico Circuit,Arch of Mulegé Circuit
+14:14,A,800,Anything Goes,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+14:16,B,700,Pickups & 4x4s,Baja,Foto Final CC,Herencia CCC,Trópico CC
+14:18,S1,900,Track Toys,Apex,Sierra Verde Sprint,Horizon Mexico Circuit,Tierra Próspera Circuit
+14:20,S1,900,Hoonigan,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+14:22,S1,900,Unlimited Buggies,Baja,Baja CCC,El Descenso CC,Estadio CCC
+14:24,A,800,Iconic Movie Cars,Apex,Emerald Circuit,Horizon Mexico Circuit,Arch of Mulegé Circuit
+14:26,A,800,Sports Utility Heroes,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+14:28,B,700,Offroad,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+14:30,A,800,Anything Goes,Apex,Horizon Mexico Circuit,Bola Ocho Circuit,Volcán Sprint
+14:32,S1,900,Ford,Wilds,Mangrove Scramble,Bajío Trail,Teotihuacán Scramble
+14:34,A,800,Sports Utility Heroes,Baja,Las Dunas CC,Costera CCC,Oasis CC
+14:36,B,700,Classic Muscle,Apex,Lookout Circuit,Cathedral Circuit,Chihuahua Circuit
+14:38,S1,900,Rally Monsters,Wilds,San Juan Scramble,El Pípila Scramble,Caldera Scramble
+14:40,A,800,Vans & Utility,Baja,Copper Canyon CC,Las Ranas CC,Ek'Balam CCC
+14:42,S1,900,Anything Goes,Apex,Chihuahua Circuit,Riviera Sprint,Los Jardines Circuit
+14:44,A,800,Unlimited Offroad,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+14:46,A,800,Vans & Utility,Baja,El Descenso CC,Oasis CC,Airfield CCC
+14:48,A,800,Super Hot Hatch,Apex,Estadio Circuit,Dunas Blancas Sprint,Bahía de Plano Circuit
+14:50,A,800,Anything Goes,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+14:52,A,800,Unlimited Offroad,Baja,Foto Final CC,Herencia CCC,Trópico CC
+14:54,S1,900,Open Top,Apex,Emerald Circuit,Reservorio Sprint,Los Jardines Circuit
+14:56,A,800,USA,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+14:58,B,700,Pickups & 4x4s,Baja,Trópico CC,Costa Este CC,Herencia CCC
+15:00,B,700,Retro Saloons,Apex,Bola Ocho Circuit,Cathedral Circuit,Plaza Circuit
+15:02,S1,900,Anything Goes,Wilds,Mangrove Scramble,Bajío Trail,Teotihuacán Scramble
+15:04,A,800,Heavy Hitters,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+15:06,S1,900,Anything Goes,Apex,Arch of Mulegé Circuit,Plaza Circuit,Playa Azul Circuit
+15:08,B,700,Modern Rally,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+15:10,A,800,UTVs,Baja,Restos CC,Las Granjas CC,Airfield CCC
+15:12,A,800,Ferrari,Apex,Estadio Circuit,Tierra Próspera Circuit,Cathedral Circuit
+15:14,B,700,Pickups & 4x4s,Wilds,Caldera Scramble,Fuera del Camino Trail,San Juan Scramble
+15:16,S1,900,Anything Goes,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+15:18,S2,998,Extreme Track Toys,Apex,Emerald Circuit,Llanuras Sprint,Bola Ocho Circuit
+15:20,S1,900,1990’s,Wilds,San Juan Scramble,El Pípila Scramble,Caldera Scramble
+15:22,D,500,Buggies,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+15:24,S1,900,Modern Super Cars,Apex,Arch of Mulegé Circuit,Plaza Circuit,Playa Azul Circuit
+15:26,A,800,USA,Wilds,San Juan Scramble,Bajío Trail,Teotihuacán Scramble
+15:28,C,600,Pickups & 4x4s,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+15:30,S2,998,High Rollers,Apex,Tierra Próspera Circuit,Llanuras Sprint,Plaza Circuit
+15:32,A,800,Rods and Customs,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+15:34,A,800,Sports Utility Heroes,Baja,Baja CCC,Urban CCC,Las Ranas CC
+15:36,S1,900,AMG vs. M Sport,Apex,Horizon Mexico Circuit,Bola Ocho Circuit,Volcán Sprint
+15:38,S1,900,Rally Monsters,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+15:40,S1,900,Anything Goes,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+15:42,A,800,Ferrari,Apex,Panorámica Sprint,Chihuahua Circuit,Playa Azul Circuit
+15:44,B,700,Hot Hatch,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+15:46,A,800,Jeep,Baja,Costa Este CC,Foto Final CC,Restos CC
+15:48,A,800,Iconic Movie Cars,Apex,Bola Ocho Circuit,Cathedral Circuit,Plaza Circuit
+15:50,A,800,Super Hot Hatch,Wilds,Teotihuacán Scramble,Tulum Trail,Barranca Trail
+15:52,S1,900,Anything Goes,Baja,Baja CCC,Urban CCC,Las Ranas CC
+15:54,B,700,Anything Goes,Apex,Lookout Circuit,Cathedral Circuit,Chihuahua Circuit
+15:56,B,700,Offroad,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+15:58,C,600,GMC,Baja,Estadio CCC,Las Granjas CC,Festival CC
+16:00,S1,900,Italy,Apex,Chihuahua Circuit,Riviera Sprint,Los Jardines Circuit
+16:02,S1,900,Anything Goes,Wilds,Mangrove Scramble,Barranca Trail,El Pípila Scramble
+16:04,A,800,Sports Utility Heroes,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+16:06,B,700,1950’s,Apex,Reservorio Sprint,Bola Ocho Circuit,Lookout Circuit
+16:08,S1,900,VW Beetle,Wilds,Caldera Scramble,Baja California Trail,Mulegé Town Scramble
+16:10,B,700,Pickups & 4x4s,Baja,Trópico CC,Las Ranas CC,Costa Este CC
+16:12,S1,900,Anything Goes,Apex,Panorámica Sprint,Chihuahua Circuit,Playa Azul Circuit
+16:14,A,800,Jeep,Wilds,San Juan Scramble,El Pípila Scramble,Caldera Scramble
+16:16,S1,900,Anything Goes,Baja,Las Dunas CC,Baja CCC,Festival CC
+16:18,S1,900,1980’s,Apex,Estadio Circuit,Copper Canyon Sprint,Playa Azul Circuit
+16:20,S1,900,Mustang vs. Camaro,Wilds,Teotihuacán Scramble,Tulum Trail,Barranca Trail
+16:22,A,800,Jeep,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+16:24,A,800,Anything Goes,Apex,Bahía de Plano Circuit,Emerald Circuit,Arch of Mulegé Circuit
+16:26,A,800,2000’s,Wilds,Mangrove Scramble,Barranca Trail,El Pípila Scramble
+16:28,A,800,Heavy Hitters,Baja,Baja CCC,Urban CCC,Las Ranas CC
+16:30,C,600,Classic Muscle,Apex,Lookout Circuit,Cathedral Circuit,Estadio Circuit
+16:32,A,800,1970’s,Wilds,Caldera Scramble,Baja California Trail,Mulegé Town Scramble
+16:34,S1,900,Anything Goes,Baja,El Descenso CC,Oasis CC,Airfield CCC
+16:36,A,800,GT Cars,Apex,Arch of Mulegé Circuit,Descansar Dorado Sprint,Bahía de Plano Circuit
+16:38,S1,900,Modern Muscle,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+16:40,D,500,Buggies,Baja,Estadio CCC,Oasis CC,Herencia CCC
+16:42,A,800,Rods and Customs,Apex,Tierra Próspera Circuit,Llanuras Sprint,Plaza Circuit
+16:44,A,800,Anything Goes,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+16:46,A,800,Vans & Utility,Baja,Las Granjas CC,Costera CCC,Baja CCC
+16:48,S1,900,Track Toys,Apex,Horizon Mexico Circuit,Plaza Circuit,Copper Canyon Sprint
+16:50,S1,900,Anything Goes,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+16:52,A,800,UTVs,Baja,Trópico CC,Las Ranas CC,Costa Este CC
+16:54,A,800,Germany,Apex,Sierra Verde Sprint,Horizon Mexico Circuit,Tierra Próspera Circuit
+16:56,A,800,Sports Utility Heroes,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+16:58,A,800,Anything Goes,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+17:00,A,800,Iconic Movie Cars,Apex,Bahía de Plano Circuit,Emerald Circuit,Arch of Mulegé Circuit
+17:02,S1,900,VW Beetle,Wilds,Caldera Scramble,Fuera del Camino Trail,San Juan Scramble
+17:04,A,800,Jeep,Baja,Restos CC,Las Granjas CC,Airfield CCC
+17:06,S1,900,Retro Super Cars,Apex,Lookout Circuit,Cathedral Circuit,Estadio Circuit
+17:08,B,700,Offroad,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+17:10,S1,900,Unlimited Buggies,Baja,El Descenso CC,Oasis CC,Airfield CCC
+17:12,A,800,Modern Muscle,Apex,Tierra Próspera Circuit,Llanuras Sprint,Plaza Circuit
+17:14,A,800,Unlimited Offroad,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+17:16,B,700,Anything Goes,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+17:18,S1,900,Mustang vs. Camaro,Apex,Los Jardines Circuit,Tierra Próspera Circuit,Volcán Sprint
+17:20,A,800,Super Hot Hatch,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+17:22,B,700,Offroad,Baja,Las Dunas CC,Costera CCC,Oasis CC
+17:24,A,800,Anything Goes,Apex,Sierra Verde Sprint,Horizon Mexico Circuit,Tierra Próspera Circuit
+17:26,A,800,Sports Utility Heroes,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+17:28,A,800,Jeep,Baja,Trópico CC,Costa Este CC,Herencia CCC
+17:30,A,800,Modern Sports Cars,Apex,Bahía de Plano Circuit,Arch of Mulegé Circuit,Sierra Verde Sprint
+17:32,A,800,Heavy Hitters,Wilds,Mangrove Scramble,Barranca Trail,El Pípila Scramble
+17:34,A,800,Anything Goes,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+17:36,A,800,Super Hot Hatch,Apex,Emerald Circuit,Reservorio Sprint,Los Jardines Circuit
+17:38,A,800,Anything Goes,Wilds,Teotihuacán Scramble,Tulum Trail,Barranca Trail
+17:40,A,800,Unlimited Offroad,Baja,Ek'Balam CCC,Trópico CC,Restos CC
+17:42,S2,998,Hypercars,Apex,Estadio Circuit,Dunas Blancas Sprint,Bahía de Plano Circuit
+17:44,S1,900,Hoonigan,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+17:46,B,700,Pickups & 4x4s,Baja,Restos CC,Las Granjas CC,Airfield CCC
+17:48,S1,900,Anything Goes,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+17:50,B,700,Offroad,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+17:52,S1,900,Unlimited Buggies,Baja,Baja CCC,Urban CCC,Las Ranas CC
+17:54,A,800,Super Saloons,Apex,Lookout Circuit,Cathedral Circuit,Chihuahua Circuit
+17:56,B,700,Offroad,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+17:58,S1,900,Anything Goes,Baja,Trópico CC,Las Ranas CC,Costa Este CC
+18:00,S1,900,Anything Goes,Apex,Horizon Mexico Circuit,Plaza Circuit,Copper Canyon Sprint
+18:02,A,800,Vans & Utility,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+18:04,A,800,Jeep,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+18:06,S2,998,France,Apex,Estadio Circuit,Copper Canyon Sprint,Playa Azul Circuit
+18:08,A,800,Anything Goes,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+18:10,A,800,Heavy Hitters,Baja,Baja CCC,El Descenso CC,Estadio CCC
+18:12,S1,900,Hoonigan,Apex,Arch of Mulegé Circuit,Descansar Dorado Sprint,Bahía de Plano Circuit
+18:14,B,700,Anything Goes,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+18:16,A,800,Jeep,Baja,Las Granjas CC,Costera CCC,Baja CCC
+18:18,B,700,Reasonably Priced Cars,Apex,Panorámica Sprint,Chihuahua Circuit,Playa Azul Circuit
+18:20,A,800,Rods and Customs,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+18:22,A,800,UTVs,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+18:24,B,700,Anything Goes,Apex,Lookout Circuit,Cathedral Circuit,Estadio Circuit
+18:26,B,700,Offroad,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+18:28,S1,900,Anything Goes,Baja,Restos CC,Las Granjas CC,Airfield CCC
+18:30,S1,900,McLaren,Apex,Tierra Próspera Circuit,Llanuras Sprint,Plaza Circuit
+18:32,A,800,Upgrade Heroes,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+18:34,S1,900,Anything Goes,Baja,Copper Canyon CC,Las Ranas CC,Ek'Balam CCC
+18:36,S1,900,Hypercars,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+18:38,S1,900,Chevrolet vs. Dodge,Wilds,Caldera Scramble,Fuera del Camino Trail,San Juan Scramble
+18:40,S1,900,Anything Goes,Baja,Las Granjas CC,Costera CCC,Baja CCC
+18:42,S2,998,Extreme Track Toys,Apex,Arch of Mulegé Circuit,Plaza Circuit,Playa Azul Circuit
+18:44,A,800,1980’s,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+18:46,A,800,Unlimited Buggies,Baja,Costa Este CC,Foto Final CC,Restos CC
+18:48,C,600,Retro Sports Cars,Apex,Estadio Circuit,Tierra Próspera Circuit,Cathedral Circuit
+18:50,B,700,Offroad,Wilds,Mangrove Scramble,Barranca Trail,El Pípila Scramble
+18:52,S1,900,Anything Goes,Baja,Las Dunas CC,Costera CCC,Oasis CC
+18:54,S1,900,1990’s,Apex,Los Jardines Circuit,Tierra Próspera Circuit,Volcán Sprint
+18:56,S1,900,Anything Goes,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+18:58,A,800,Vans & Utility,Baja,Estadio CCC,Oasis CC,Herencia CCC
+19:00,A,800,Muscle vs. Tuner,Apex,Panorámica Sprint,Chihuahua Circuit,Playa Azul Circuit
+19:02,C,600,Retro Rally,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+19:04,B,700,Anything Goes,Baja,Foto Final CC,Herencia CCC,Trópico CC
+19:06,B,700,Modern Sports Cars,Apex,Reservorio Sprint,Bola Ocho Circuit,Lookout Circuit
+19:08,B,700,Pickups & 4x4s,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+19:10,A,800,Sports Utility Heroes,Baja,Las Dunas CC,Baja CCC,Festival CC
+19:12,S1,900,Upgrade Heroes,Apex,Arch of Mulegé Circuit,Descansar Dorado Sprint,Bahía de Plano Circuit
+19:14,A,800,Anything Goes,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+19:16,A,800,Vans & Utility,Baja,Trópico CC,Las Ranas CC,Costa Este CC
+19:18,S1,900,Modern Super Cars,Apex,Lookout Circuit,Copper Canyon Sprint,Chihuahua Circuit
+19:20,B,700,Evo vs. Impreza,Wilds,San Juan Scramble,El Pípila Scramble,Caldera Scramble
+19:22,A,800,UTVs,Baja,Las Dunas CC,Baja CCC,Festival CC
+19:24,B,700,Retro Sports Cars,Apex,Bahía de Plano Circuit,Arch of Mulegé Circuit,Sierra Verde Sprint
+19:26,A,800,2010’s,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+19:28,B,700,Anything Goes,Baja,Estadio CCC,Oasis CC,Herencia CCC
+19:30,S1,900,Hypercars,Apex,Bola Ocho Circuit,Los Jardines Circuit,Playa Azul Circuit
+19:32,A,800,Anything Goes,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+19:34,C,600,Pickups & 4x4s,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+19:36,S1,900,1960’s,Apex,Panorámica Sprint,Chihuahua Circuit,Playa Azul Circuit
+19:38,S1,900,Anything Goes,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+19:40,C,600,Pickups & 4x4s,Baja,Ek'Balam CCC,Trópico CC,Restos CC
+19:42,A,800,United Kingdom,Apex,Arch of Mulegé Circuit,Gran Pantano Sprint,Playa Azul Circuit
+19:44,A,800,2000’s,Wilds,Caldera Scramble,Baja California Trail,Mulegé Town Scramble
+19:46,A,800,UTVs,Baja,Trópico CC,Costa Este CC,Herencia CCC
+19:48,A,800,Chevrolet vs. Dodge,Apex,Horizon Mexico Circuit,Bola Ocho Circuit,Volcán Sprint
+19:50,S1,900,Rally Monsters,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+19:52,S1,900,Unlimited Buggies,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+19:54,A,800,Classic Racers,Apex,Emerald Circuit,Horizon Mexico Circuit,Arch of Mulegé Circuit
+19:56,A,800,Upgrade Heroes,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+19:58,A,800,Unlimited Offroad,Baja,Baja CCC,El Descenso CC,Estadio CCC
+20:00,S1,900,Italy,Apex,Bahía de Plano Circuit,Arch of Mulegé Circuit,Sierra Verde Sprint
+20:02,S1,900,Ford,Wilds,Teotihuacán Scramble,Tulum Trail,Barranca Trail
+20:04,C,600,GMC,Baja,Copper Canyon CC,Las Ranas CC,Ek'Balam CCC
+20:06,A,800,Super Saloons,Apex,Lookout Circuit,Cathedral Circuit,Estadio Circuit
+20:08,B,700,Pickups & 4x4s,Wilds,Mangrove Scramble,Bajío Trail,Teotihuacán Scramble
+20:10,A,800,Jeep,Baja,Estadio CCC,Las Granjas CC,Festival CC
+20:12,S1,900,Anything Goes,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+20:14,B,700,Mini,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+20:16,S1,900,Anything Goes,Baja,Ek'Balam CCC,Trópico CC,Restos CC
+20:18,S2,998,Anything Goes,Apex,Estadio Circuit,Dunas Blancas Sprint,Bahía de Plano Circuit
+20:20,A,800,2010’s,Wilds,Teotihuacán Scramble,Tulum Trail,Barranca Trail
+20:22,A,800,Unlimited Offroad,Baja,Las Dunas CC,Baja CCC,Festival CC
+20:24,S1,900,Retro Super Cars,Apex,Arch of Mulegé Circuit,Gran Pantano Sprint,Playa Azul Circuit
+20:26,B,700,Retro Rally,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+20:28,S1,900,Unlimited Buggies,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+20:30,A,800,Anything Goes,Apex,Bahía de Plano Circuit,Arch of Mulegé Circuit,Sierra Verde Sprint
+20:32,A,800,Heavy Hitters,Wilds,Caldera Scramble,Baja California Trail,Mulegé Town Scramble
+20:34,B,700,Pickups & 4x4s,Baja,Copper Canyon CC,Las Ranas CC,Ek'Balam CCC
+20:36,S1,900,Ferrari,Apex,Sierra Verde Sprint,Horizon Mexico Circuit,Tierra Próspera Circuit
+20:38,A,800,Anything Goes,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+20:40,A,800,Unlimited Buggies,Baja,Las Dunas CC,Costera CCC,Oasis CC
+20:42,S1,900,Mustang vs. Camaro,Apex,Emerald Circuit,Llanuras Sprint,Bola Ocho Circuit
+20:44,A,800,Rods and Customs,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+20:46,B,700,Anything Goes,Baja,Estadio CCC,Las Granjas CC,Festival CC
+20:48,A,800,Super Saloons,Apex,Horizon Mexico Circuit,Plaza Circuit,Copper Canyon Sprint
+20:50,B,700,Evo vs. Impreza,Wilds,River Scramble,San Juan Scramble,Caldera Scramble
+20:52,B,700,Pickups & 4x4s,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+20:54,A,800,Open Top,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+20:56,A,800,Anything Goes,Wilds,Caldera Scramble,Baja California Trail,Mulegé Town Scramble
+20:58,B,700,Anything Goes,Baja,Estadio CCC,Oasis CC,Herencia CCC
+21:00,S1,900,Ferrari,Apex,Arch of Mulegé Circuit,Gran Pantano Sprint,Playa Azul Circuit
+21:02,S1,900,Anything Goes,Wilds,San Juan Scramble,El Pípila Scramble,Caldera Scramble
+21:04,A,800,Unlimited Offroad,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+21:06,A,800,2000’s,Apex,Estadio Circuit,Dunas Blancas Sprint,Bahía de Plano Circuit
+21:08,B,700,Evo vs. Impreza,Wilds,Mangrove Scramble,Bajío Trail,Teotihuacán Scramble
+21:10,C,600,Pickups & 4x4s,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+21:12,B,700,Mazda,Apex,Lookout Circuit,Copper Canyon Sprint,Chihuahua Circuit
+21:14,S1,900,Anything Goes,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+21:16,A,800,Heavy Hitters,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+21:18,S1,900,Forza Favourites,Apex,Horizon Mexico Circuit,Plaza Circuit,Copper Canyon Sprint
+21:20,A,800,Sports Utility Heroes,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+21:22,S1,900,Anything Goes,Baja,Baja CCC,El Descenso CC,Estadio CCC
+21:24,S1,900,Nissan,Apex,Reservorio Sprint,Bola Ocho Circuit,Lookout Circuit
+21:26,S1,900,VW Beetle,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+21:28,C,600,Pickups & 4x4s,Baja,Ek'Balam CCC,Trópico CC,Restos CC
+21:30,A,800,Ferrari,Apex,Emerald Circuit,Llanuras Sprint,Bola Ocho Circuit
+21:32,S1,900,Anything Goes,Wilds,Caldera Scramble,Fuera del Camino Trail,San Juan Scramble
+21:34,A,800,Sports Utility Heroes,Baja,Foto Final CC,Urban CCC,Las Dunas CC
+21:36,S1,900,Anything Goes,Apex,Tierra Próspera Circuit,Llanuras Sprint,Plaza Circuit
+21:38,A,800,Land Rover,Wilds,Mangrove Scramble,Barranca Trail,El Pípila Scramble
+21:40,S1,900,Anything Goes,Baja,Costa Este CC,Foto Final CC,Restos CC
+21:42,A,800,Retro Muscle,Apex,Horizon Mexico Circuit,Bola Ocho Circuit,Volcán Sprint
+21:44,B,700,Modern Rally,Wilds,Horizon Baja Scramble,Mulegé Town Scramble,La Selva Scramble
+21:46,C,600,Pickups & 4x4s,Baja,Estadio CCC,Las Granjas CC,Festival CC
+21:48,A,800,Chevrolet vs. Dodge,Apex,Arch of Mulegé Circuit,Gran Pantano Sprint,Playa Azul Circuit
+21:50,A,800,Australia,Wilds,Caldera Scramble,Fuera del Camino Trail,San Juan Scramble
+21:52,D,500,Buggies,Baja,Las Granjas CC,Costera CCC,Baja CCC
+21:54,A,800,Super Saloons,Apex,Bola Ocho Circuit,Los Jardines Circuit,Playa Azul Circuit
+21:56,S1,900,Modern Muscle,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+21:58,A,800,Vans & Utility,Baja,Costa Este CC,Foto Final CC,Restos CC
+22:00,A,800,Anything Goes,Apex,Reservorio Sprint,Bola Ocho Circuit,Lookout Circuit
+22:02,A,800,Classic Muscle,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+22:04,S1,900,Anything Goes,Baja,Trópico CC,Costa Este CC,Herencia CCC
+22:06,S1,900,Anything Goes,Apex,Emerald Circuit,Llanuras Sprint,Bola Ocho Circuit
+22:08,A,800,1970’s,Wilds,Mangrove Scramble,El Pípila Scramble,Teotihuacán Scramble
+22:10,A,800,UTVs,Baja,Foto Final CC,Herencia CCC,Trópico CC
+22:12,S2,998,Extreme Track Toys,Apex,Estadio Circuit,Copper Canyon CC,Playa Azul Circuit
+22:14,S1,900,Ford,Wilds,Caldera Scramble,Desierto Trail,River Scramble
+22:16,S1,900,Unlimited Buggies,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+22:18,A,800,AMG vs. M Sport,Apex,Lookout Circuit,Copper Canyon Sprint,Chihuahua Circuit
+22:20,A,800,United Kingdom,Wilds,Teotihuacán Scramble,River Scramble,Mulegé Town Scramble
+22:22,A,800,Land Rover,Baja,El Descenso CC,Oasis CC,Airfield CCC
+22:24,B,700,1950’s,Apex,Estadio Circuit,Tierra Próspera Circuit,Cathedral Circuit
+22:26,S1,900,1980’s,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+22:28,A,800,Vans & Utility,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+22:30,A,800,Anything Goes,Apex,Emerald Circuit,Horizon Mexico Circuit,Arch of Mulegé Circuit
+22:32,B,700,Pickups & 4x4s,Wilds,La Selva Scramble,Cordillera Trail,El Pípila Scramble
+22:34,S1,900,Anything Goes,Baja,Airfield CCC,Ribera Rocosa CC,El Descenso CC
+22:36,S1,900,Anything Goes,Apex,Arch of Mulegé Circuit,Gran Pantano Sprint,Playa Azul Circuit
+22:38,B,700,Retro Muscle,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+22:40,B,700,Pickups & 4x4s,Baja,Foto Final CC,Herencia CCC,Trópico CC
+22:42,S1,900,Lamborghini,Apex,Bola Ocho Circuit,Los Jardines Circuit,Playa Azul Circuit
+22:44,S1,900,VW Beetle,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+22:46,S1,900,Unlimited Buggies,Baja,Baja CCC,El Descenso CC,Estadio CCC
+22:48,B,700,Hot Hatch,Apex,Horizon Mexico Circuit,Bola Ocho Circuit,Volcán Sprint
+22:50,A,800,Heavy Hitters,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+22:52,B,700,Offroad,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+22:54,A,800,Anything Goes,Apex,Los Jardines Circuit,Tierra Próspera Circuit,Volcán Sprint
+22:56,A,800,Land Rover,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+22:58,A,800,Sports Utility Heroes,Baja,Las Dunas CC,Costera CCC,Oasis CC
+23:00,B,700,Toyota,Apex,Lookout Circuit,Cathedral Circuit,Estadio Circuit
+23:02,A,800,Vans & Utility,Wilds,Teotihuacán Scramble,Desierto Trail,Mulegé Town Scramble
+23:04,S1,900,Anything Goes,Baja,Copper Canyon CC,Las Ranas CC,Ek'Balam CCC
+23:06,A,800,Ford,Apex,Bola Ocho Circuit,Los Jardines Circuit,Playa Azul Circuit
+23:08,A,800,Land Rover,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+23:10,A,800,Vans & Utility,Baja,El Descenso CC,Oasis CC,Airfield CCC
+23:12,S1,900,Forza Favourites,Apex,Reservorio Sprint,Estadio Circuit,Panorámica Sprint
+23:14,B,700,Classic Rally,Wilds,Mangrove Scramble,River Scramble,Teotihuacán Scramble
+23:16,A,800,Unlimited Offroad,Baja,Foto Final CC,Herencia CCC,Trópico CC
+23:18,A,800,Rods and Customs,Apex,Bahía de Plano Circuit,Emerald Circuit,Arch of Mulegé Circuit
+23:20,S1,900,Hoonigan,Wilds,Caldera Scramble,Montaña Trail,Mulegé Town Scramble
+23:22,B,700,Pickups & 4x4s,Baja,Trópico CC,Costa Este CC,Herencia CCC
+23:24,S1,900,Classic Racers,Apex,Sierra Verde Sprint,Horizon Mexico Circuit,Tierra Próspera Circuit
+23:26,A,800,United Kingdom,Wilds,Teotihuacán Scramble,Mulegé Town Scramble,San Juan Scramble
+23:28,A,800,Heavy Hitters,Baja,Urban CCC,Copper Canyon CC,Costa Este CC
+23:30,A,800,GT Cars,Apex,Bola Ocho Circuit,Cathedral Circuit,Plaza Circuit
+23:32,S1,900,Anything Goes,Wilds,San Juan Scramble,Teotihuacán Scramble,Mangrove Scramble
+23:34,A,800,UTVs,Baja,Restos CC,Las Granjas CC,Airfield CCC
+23:36,A,800,Iconic Movie Cars,Apex,Los Jardines Circuit,Tierra Próspera Circuit,Volcán Sprint
+23:38,B,700,Evo vs. Impreza,Wilds,Mulegé Town Scramble,Cascada Trail,Mangrove Scramble
+23:40,S1,900,Anything Goes,Baja,El Descenso CC,Copper Canyon CC,Foto Final CC
+23:42,S1,900,Lamborghini vs. Ferrari,Apex,Estadio Circuit,Copper Canyon Sprint,Playa Azul Circuit
+23:44,A,800,Unlimited Offroad,Wilds,Mangrove Scramble,Tapalpa Trail,San Juan Scramble
+23:46,D,500,Buggies,Baja,Festival CC,Costera CCC,Ribera Rocosa CC
+23:48,A,800,GT Cars,Apex,Bahía de Plano Circuit,Emerald Circuit,Arch of Mulegé Circuit
+23:50,A,800,Anything Goes,Wilds,Horizon Baja Scramble,San Juan Scramble,La Selva Scramble
+23:52,C,600,Pickups & 4x4s,Baja,Estadio CCC,Herencia CCC,Ek'Balam CCC
+23:54,S1,900,Modern Muscle,Apex,Emerald Circuit,Reservorio Sprint,Los Jardines Circuit
+23:56,S1,900,Chevrolet vs. Dodge,Wilds,El Pípila Scramble,Montaña Trail,Horizon Baja Scramble
+23:58,A,800,Sports Utility Heroes,Baja,Baja CCC,Urban CCC,Las Ranas CC
