@@ -32,7 +32,8 @@ export function Tour({tour, setRaces, setClasses}) {
     <div className='tour flex-center'>
       <div style={{
         display: 'flex',
-        alignItems: "center"
+        alignItems: "center",
+        marginBottom: '0.25rem'
       }}>
         <div className='class-race'>
           <ClassButton cls={tour.cls} pi={tour.pi} onClick={() => setClasses([tour.cls])}/>
@@ -44,6 +45,7 @@ export function Tour({tour, setRaces, setClasses}) {
         </div>
         <TimeLeft seconds={tour.secondsUntil} />
       </div>
+      {tour.tracks.map(track => <span>{track}</span>)}
     </div>
   </div>;
 }
