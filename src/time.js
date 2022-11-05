@@ -1,7 +1,13 @@
 import {padStart} from "lodash";
 
 export function wrapHours(hour) {
-  return hour < 0 ? hour + 24 : hour;
+  if (hour < 0) {
+    return hour + 24;
+  }
+  if (hour > 23) {
+    return hour - 24;
+  }
+  return hour;
 }
 
 export function wrapMinSecs(minutesOrSeconds) {
