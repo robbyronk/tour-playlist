@@ -1,6 +1,6 @@
 import './App.css';
 import {useEffect, useState} from "react";
-import {filter, includes, map, sortBy, split, uniq} from 'lodash'
+import {filter, includes, map, sortBy, split, uniq, xor} from 'lodash'
 import papa from 'papaparse';
 import {Tour} from "./Tour";
 import {ClassPicker} from "./ClassPicker";
@@ -13,6 +13,7 @@ function App() {
   const [allClasses, setAllClasses] = useState([]);
   const [shownRaces, setShownRaces] = useState([]);
   const [shownClasses, setShownClasses] = useState([]);
+  const [pinnedTours, setPinnedTours] = useState([])
   const [tours, setParsed] = useState([]);
 
   useEffect(() => {
@@ -77,8 +78,26 @@ function App() {
       </a>
       <ClassPicker allClasses={allClasses} classes={shownClasses} set={setShownClasses}/>
       <RacePicker allRaces={allRaces} races={shownRaces} set={setShownRaces}/>
+      <div className="pinned-tours">
+        {sortedTours.filter(t => includes(pinnedTours, t.time))
+          .map((t) => <Tour key={t.time} tour={t}
+                                                 setClasses={setShownClasses}
+                                                 setRaces={setShownRaces}
+                                                 pinTour={() => {
+                                                   setPinnedTours(xor(pinnedTours, [t.time]))
+                                                 }}
+                                                 isPinned={true}
+        />)}
+      </div>
       <div className="tours">
-        {filteredTours.map((t) => <Tour key={t.time} tour={t} setClasses={setShownClasses} setRaces={setShownRaces}/>)}
+        {filteredTours.map((t) => <Tour key={t.time} tour={t}
+                                        setClasses={setShownClasses}
+                                        setRaces={setShownRaces}
+                                        pinTour={() => {
+                                          setPinnedTours(xor(pinnedTours, [t.time]))
+                                        }}
+                                        isPinned={includes(pinnedTours, t.time)}
+        />)}
       </div>
     </div>
   );

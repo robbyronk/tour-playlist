@@ -14,6 +14,10 @@ button {
   border: 0;
 }
 
+.pinned-tours {
+  margin-top: 1rem;
+}
+
 .tours {
   margin-top: 2rem;
 }
@@ -37,11 +41,49 @@ button {
 }
 
 .tour {
+  display: grid;
+  grid-gap: 0.25rem;
+  align-items: center;
+  grid-template-areas:
+  "class-race theme"
+  "time time"
+  "pin tracks"
+;
   border-radius: 5px;
   padding: 0.5rem 2rem;
   margin: 0.5rem;
   background-color: #fafafa;
-  flex-direction: column;
+}
+
+.tour-class-race {
+  grid-area: class-race;
+  display: grid;
+  grid-gap: 0.25rem;
+}
+
+.tour-race {
+  grid-area: race;
+}
+
+.tour-time {
+  grid-area: time;
+}
+
+.tour-theme {
+  grid-area: theme;
+}
+
+.tour-tracks {
+  grid-area: tracks;
+  font-size: 80%;
+}
+
+.tour-pin {
+  grid-area: pin;
+}
+
+.pin {
+  height: 32px;
 }
 
 .picker {
@@ -58,11 +100,6 @@ button {
     display: flex;
     justify-content: center;
   }
-}
-
-.class-race {
-  display: grid;
-  grid-gap: 0.25rem;
 }
 
 .class-type {
@@ -137,6 +174,10 @@ button {
 .next-up {
   font-size: 150%;
   background-color: #e9d323;
+}
+
+.pinned {
+  background-color: #9270f6;
 }
 
 .pi {
